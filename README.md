@@ -8,7 +8,7 @@ Introduction
 ------------
 
 DiceRollerFinal-challenge adds onto DiceRollerFinal with two dice that are rolled
-independently.
+independently. The total value of the two dice is displayed on top of the screen.
 
 
 Pre-requisites
